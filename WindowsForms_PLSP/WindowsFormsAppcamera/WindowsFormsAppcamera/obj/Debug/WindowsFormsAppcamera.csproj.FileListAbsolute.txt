@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\WindowsFormsAppcamera\WindowsFormsAppcamera\bin\Debug\WindowsFormsAppcamera.exe
+C:\Users\Admin\source\repos\WindowsFormsAppcamera\WindowsFormsAppcamera\bin\Debug\WindowsFormsAppcamera.pdb
+C:\Users\Admin\source\repos\WindowsFormsAppcamera\WindowsFormsAppcamera\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Admin\source\repos\WindowsFormsAppcamera\WindowsFormsAppcamera\bin\Debug\AForge.Video.dll
+C:\Users\Admin\source\repos\WindowsFormsAppcamera\WindowsFormsAppcamera\bin\Debug\AForge.dll
+C:\Users\Admin\source\repos\WindowsFormsAppcamera\WindowsFormsAppcamera\bin\Debug\AForge.Video.xml
+C:\Users\Admin\source\repos\WindowsFormsAppcamera\WindowsFormsAppcamera\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Admin\source\repos\WindowsFormsAppcamera\WindowsFormsAppcamera\bin\Debug\AForge.xml
+C:\Users\Admin\source\repos\WindowsFormsAppcamera\WindowsFormsAppcamera\obj\Debug\WindowsFormsAppcamera.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WindowsFormsAppcamera\WindowsFormsAppcamera\obj\Debug\WindowsFormsAppcamera.Form1.resources
+C:\Users\Admin\source\repos\WindowsFormsAppcamera\WindowsFormsAppcamera\obj\Debug\WindowsFormsAppcamera.Properties.Resources.resources
+C:\Users\Admin\source\repos\WindowsFormsAppcamera\WindowsFormsAppcamera\obj\Debug\WindowsFormsAppcamera.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WindowsFormsAppcamera\WindowsFormsAppcamera\obj\Debug\WindowsFormsAppcamera.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WindowsFormsAppcamera\WindowsFormsAppcamera\obj\Debug\WindowsFormsAppcamera.csproj.CopyComplete
+C:\Users\Admin\source\repos\WindowsFormsAppcamera\WindowsFormsAppcamera\obj\Debug\WindowsFormsAppcamera.exe
+C:\Users\Admin\source\repos\WindowsFormsAppcamera\WindowsFormsAppcamera\obj\Debug\WindowsFormsAppcamera.pdb
